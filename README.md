@@ -2,4 +2,4 @@
 The first repository
 
 MSU student, learning Python and C++.
-Trying to be better.
+Trying to be the top one programmer worldwide.
